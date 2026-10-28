@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Review claim #4711 (water damage, Lisbon)",
+    "done": true,
+    "id": "a745ae38",
+    "created": "2026-10-23 09:42:02"
+  },
+  {
+    "title": "Call customer about motor policy renewal",
+    "done": false,
+    "id": "8cff1adf",
+    "created": "2026-10-23 09:42:02"
+  },
+  {
+    "title": "Prepare Q3 risk report for the claims team",
+    "done": true,
+    "id": "24a7f5dd",
+    "created": "2026-10-23 09:42:02"
+  },
+  {
+    "id": "c8291329",
+    "title": "Browser-style follow",
+    "done": false,
+    "created": "2026-10-23 10:41:14"
+  },
+  {
+    "id": "c01ef433",
+    "title": "Update calendar.",
+    "done": false,
+    "created": "2026-10-23 10:53:08"
+  }
+]
